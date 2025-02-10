@@ -1,0 +1,45 @@
+html, body {
+    height: 100%;
+    background-color: #FFF2F2;
+}
+
+.container-fluid {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #A9B5DF;
+}
+
+.login-form {
+    width: 380px;
+    height: 450px;
+    padding: 20px;
+    background-color: #A9B5DF;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    background: #A9B5DF;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+.register-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    background: #A9B5DF;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.logo {
+    width: 50px;
+    height: 50px;
+}
